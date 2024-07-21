@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SamaXero/social-links-profile/static/css/main.0bfdc820.css",
-    "main.js": "/SamaXero/social-links-profile/static/js/main.1a6698ca.js",
-    "static/media/renato-image.jpg": "/SamaXero/social-links-profile/static/media/renato-image.8824962f5e11d4618d2a.jpg",
-    "index.html": "/SamaXero/social-links-profile/index.html",
-    "main.0bfdc820.css.map": "/SamaXero/social-links-profile/static/css/main.0bfdc820.css.map",
-    "main.1a6698ca.js.map": "/SamaXero/social-links-profile/static/js/main.1a6698ca.js.map"
+    "main.css": "/social-links-profile/static/css/main.0bfdc820.css",
+    "main.js": "/social-links-profile/static/js/main.76b3ac80.js",
+    "static/media/renato-image.jpg": "/social-links-profile/static/media/renato-image.8824962f5e11d4618d2a.jpg",
+    "index.html": "/social-links-profile/index.html",
+    "main.0bfdc820.css.map": "/social-links-profile/static/css/main.0bfdc820.css.map",
+    "main.76b3ac80.js.map": "/social-links-profile/static/js/main.76b3ac80.js.map"
   },
   "entrypoints": [
     "static/css/main.0bfdc820.css",
-    "static/js/main.1a6698ca.js"
+    "static/js/main.76b3ac80.js"
   ]
 }
